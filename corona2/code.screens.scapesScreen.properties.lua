@@ -1,0 +1,32 @@
+local L0_1, L1_1, L2_1, L3_1, L4_1
+L0_1 = {}
+L1_1 = {}
+L2_1 = 0.59
+L3_1 = 0.6
+L4_1 = 0.59
+L1_1[1] = L2_1
+L1_1[2] = L3_1
+L1_1[3] = L4_1
+L0_1.inactiveDarkColor = L1_1
+L1_1 = {}
+L2_1 = 0.25
+L3_1 = 0.25
+L4_1 = 0.25
+L1_1[1] = L2_1
+L1_1[2] = L3_1
+L1_1[3] = L4_1
+L0_1.inactiveVeryDarkColor = L1_1
+L1_1 = {}
+L2_1 = 0
+L3_1 = 0
+L4_1 = 0
+L1_1[1] = L2_1
+L1_1[2] = L3_1
+L1_1[3] = L4_1
+L0_1.inactiveBlackColor = L1_1
+L0_1.scapesScreenDelayOnMoveInTrans = 125
+L0_1.scapeYInScapesScrollView = 200
+L0_1.charactersScaleInCharactersScapesScreen = 1
+L0_1.scapesUnlockedAtStart = 3
+L0_1.charactersScreenVideoButtonScale = 0.75
+return L0_1
