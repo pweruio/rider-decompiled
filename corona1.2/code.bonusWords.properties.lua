@@ -1,0 +1,31 @@
+local L0_1, L1_1, L2_1, L3_1, L4_1
+L0_1 = {}
+L0_1.bonusWordsForceCompletion = false
+L1_1 = {}
+L2_1 = 0
+L3_1 = 0
+L4_1 = 0
+L1_1[1] = L2_1
+L1_1[2] = L3_1
+L1_1[3] = L4_1
+L0_1.bgRGB = L1_1
+L1_1 = {}
+L2_1 = 0.2
+L3_1 = 0.2
+L4_1 = 0.2
+L1_1[1] = L2_1
+L1_1[2] = L3_1
+L1_1[3] = L4_1
+L0_1.rowRGB = L1_1
+L0_1.bonusWordsScreenTimerName = "bonusWordsScreenTimerName"
+L0_1.defualtFontSizeForGlowScale = 45
+L0_1.fakeLetterFadeTransTime = 400
+L0_1.bonusWordCompletionfakeLetterFadeTransTime = 400
+L0_1.bonusWordsScreenCompletionAnimationObjectDelay = 200
+L0_1.bonusWordsLetterHooverYDeltaValue = 15
+L0_1.bonusWordsLetterHooverTransTime = 1000
+L0_1.bonusWordsHudWidgetCompletionTransRevertTime = 1500
+L0_1.bonusWordsHudWidgetCompletionTransTime = 500
+L0_1.letterRewardMultiplier = 40
+L0_1.bonusWordsScreenBurstParticlesTimerName = "bonusWordsScreenBurstParticlesTimerName"
+return L0_1

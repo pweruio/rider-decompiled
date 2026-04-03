@@ -1,0 +1,7 @@
+local L0_1, L1_1
+L0_1 = {}
+L1_1 = GAMEANALYTICS_KEY
+L0_1.GAKey = L1_1
+L1_1 = GAMEANALYTICS_SECRETKEY
+L0_1.GASecretKey = L1_1
+return L0_1
